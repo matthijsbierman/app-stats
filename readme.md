@@ -46,3 +46,7 @@ To run the compiling process once, without watching any files, use the `build` c
 ```bash
 npm start build
 ```
+
+## Sources
+
+The sources are located in `client`.
